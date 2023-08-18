@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: d357re
-      url-base: https://github.com/d357re
+    - name: jyojoh
+      url-base: https://github.com/jyojoh
   projects:
     - name: zmk
-      remote: d357re
+      remote: jyojoh
       revision: main
       import: app/west.yml
   self:
