@@ -1,7 +1,5 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
     - name: d357re
       url-base: https://github.com/d357re
   projects:
