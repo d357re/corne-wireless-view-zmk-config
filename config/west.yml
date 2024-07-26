@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: d357re
-      revision: d357re-patch-1
+      revision: d357re-patch-2
       import: app/west.yml
   self:
     path: config
